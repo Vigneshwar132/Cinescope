@@ -1,1 +1,1 @@
-# Cinescope
+# CinemaHub
